@@ -1,0 +1,11 @@
+{
+  "name": "mnemonic",
+  "version": "1.0.0",
+  "description": "mnemonic generator",
+  "dependencies": {
+    "bip39": "^2.4.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
